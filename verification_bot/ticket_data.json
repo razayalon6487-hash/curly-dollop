@@ -1,0 +1,148 @@
+{
+  "tickets": {
+    "1560682630834430073": {
+      "channel_id": 1560682630834430073,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1513448199803768900,
+      "category": "bug",
+      "created_at": "2026-10-16T15:55:34.829229+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": null,
+      "closed_by": 1513448199803768900
+    },
+    "1560690168988434554": {
+      "channel_id": 1560690168988434554,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1513448199803768900,
+      "category": "staff_contact",
+      "created_at": "2026-10-16T16:25:32.278747+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": null,
+      "closed_by": 1513448199803768900
+    },
+    "1560690247258476637": {
+      "channel_id": 1560690247258476637,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1513448199803768900,
+      "category": "purchase_issue",
+      "created_at": "2026-10-16T16:25:50.812681+00:00",
+      "claimed_by": 1513448199803768900,
+      "closed": false,
+      "locked": false,
+      "rating": null
+    },
+    "1560692707397996715": {
+      "channel_id": 1560692707397996715,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1436355028003852368,
+      "category": "staff_contact",
+      "created_at": "2026-10-16T16:35:37.356091+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": 4,
+      "closed_by": 1436355028003852368,
+      "rated_by": 1436355028003852368
+    },
+    "1560693040757084291": {
+      "channel_id": 1560693040757084291,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1436355028003852368,
+      "category": "general",
+      "created_at": "2026-10-16T16:36:57.123028+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": 5,
+      "closed_by": 1436355028003852368,
+      "rated_by": 1436355028003852368
+    },
+    "1561779988984897577": {
+      "channel_id": 1561779988984897577,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1431231613894918179,
+      "category": "purchase_issue",
+      "created_at": "2026-10-19T16:36:06.119730+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": 5,
+      "closed_by": 1431231613894918179,
+      "rated_by": 1431231613894918179
+    },
+    "1561780112163082301": {
+      "channel_id": 1561780112163082301,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1431231613894918179,
+      "category": "bot_issue",
+      "created_at": "2026-10-19T16:36:35.524040+00:00",
+      "claimed_by": null,
+      "closed": false,
+      "locked": false,
+      "rating": null
+    },
+    "1561955000404418702": {
+      "channel_id": 1561955000404418702,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1554492944084373614,
+      "category": "staff_contact",
+      "created_at": "2026-10-20T04:11:32.202949+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": null,
+      "closed_by": 1513448199803768900
+    },
+    "1562059195300454430": {
+      "channel_id": 1562059195300454430,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1513448199803768900,
+      "category": "bot_issue",
+      "created_at": "2026-10-20T11:05:33.719078+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": null,
+      "closed_by": 1513448199803768900
+    },
+    "1562069659325309019": {
+      "channel_id": 1562069659325309019,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1513448199803768900,
+      "category": "bot_issue",
+      "created_at": "2026-10-20T11:47:08.636689+00:00",
+      "claimed_by": null,
+      "closed": true,
+      "locked": false,
+      "rating": null,
+      "closed_at": "2026-10-20T11:47:37.201097+00:00",
+      "closed_by": 1513448199803768900,
+      "closed_user_permissions": {
+        "1513448199803768900": {
+          "view_channel": true,
+          "send_messages": true
+        }
+      }
+    },
+    "1562072536659796071": {
+      "channel_id": 1562072536659796071,
+      "guild_id": 1555537759777849425,
+      "owner_id": 1431231613894918179,
+      "category": "bot_issue",
+      "created_at": "2026-10-20T11:58:34.741027+00:00",
+      "claimed_by": null,
+      "closed": false,
+      "locked": false,
+      "rating": null,
+      "closed_at": "2026-10-20T11:58:58.592340+00:00",
+      "closed_by": 1431231613894918179,
+      "reopened_by": 1431231613894918179,
+      "reopened_at": "2026-10-20T11:59:29.347112+00:00"
+    }
+  },
+  "banned_users": {}
+}
